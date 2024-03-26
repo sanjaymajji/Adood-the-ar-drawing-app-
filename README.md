@@ -13,8 +13,8 @@ This AR app, developed using Unity with ARFoundation library and Photon Unity Ne
 - **Moving Cubes**: Users can interact with placed cubes and move them around in the AR space.
 - **Multiplayer Interaction**: Utilizing PUN, multiple players can interact with each other's 3D objects. This enables collaborative experiences in AR.
 
-## Technologies Used
-- Unity: Game engine used for development.
+## Tech stack used
+- Unity: engine used for development.
 - ARFoundation: Library for building AR apps with Unity.
 - Photon Unity Networking (PUN): Framework for adding multiplayer support to Unity apps.
 
@@ -26,8 +26,3 @@ This AR app, developed using Unity with ARFoundation library and Photon Unity Ne
 5. Interact with the cubes by tapping and dragging to move them around.
 6. Enjoy multiplayer interaction by connecting with other players online.
 
-## Development
-### Requirements
-- Unity 3D
-- ARFoundation
-- Photon Unity Networking (PUN)
