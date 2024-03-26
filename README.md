@@ -2,7 +2,7 @@ Your README file should provide a clear and concise overview of your AR app and 
 
 ---
 
-# Adood-the-ar-drawing-app
+# ADOOD the ar drawing app
 
 ## Overview
 This AR app, developed using Unity with ARFoundation library and Photon Unity Networking (PUN), allows users to interact with 3D objects in augmented reality environments. The app offers features such as drawing lines on the screen, placing virtual cubes on detected planes, and enabling multiplayer interaction.
