@@ -18,11 +18,4 @@ This AR app, developed using Unity with ARFoundation library and Photon Unity Ne
 - ARFoundation: Library for building AR apps with Unity.
 - Photon Unity Networking (PUN): Framework for adding multiplayer support to Unity apps.
 
-## Usage
-1. Install the app on your AR-compatible device.
-2. Launch the app and follow on-screen instructions.
-3. Use XR input to draw lines on the screen.
-4. Tap on detected planes to place virtual cubes.
-5. Interact with the cubes by tapping and dragging to move them around.
-6. Enjoy multiplayer interaction by connecting with other players online.
 
